@@ -1,1 +1,2 @@
 # ubuntu_upgrade
+Not only we need to upgrade the OS of all instances on AWS, but also we need to upgrade mongodb binary and configuration file on Instance too, this is simple task when we have some instance in 1x amount tier, but our chanllenge is propagating the security update into 1xx instance, so we needo orchestrate some shell scripts to execute such big assignment in a secure and fast way. this is only sketch of this task, due to NDA ,i can not disclose more detail on this topics.
